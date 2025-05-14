@@ -1,6 +1,6 @@
 
 
-# YouTube audio/video downloader
+# YouTube video/audio downloader
 
 <div align="center">
 
