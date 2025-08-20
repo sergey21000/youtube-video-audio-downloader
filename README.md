@@ -4,7 +4,7 @@
 
 <div align="center">
 
-Python скрипты для загрузки видео/аудио с YouTube в Google Colab
+Python скрипты для загрузки видео/аудио с YouTube (в том числе RuTube, VK, и [другие сервисы](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) в Google Colab  
 </div>
 
 <div align="center">
