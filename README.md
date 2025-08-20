@@ -2,14 +2,8 @@
 
 # YouTube video/audio downloader
 
-<div align="center">
-
-Python scripts for downloading video/audio from YouTube (including RuTube, VK, and [other services](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) in Google Colab  
-</div>
-
-<div align="center">
+Python скрипты для загрузки видео/аудио с YouTube (в том числе RuTube, VK, и [других сервисов](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) в Google Colab  
 <a href="https://colab.research.google.com/drive/1Dep1tkQbjQFb6R9dR4Px1kI8gIiycMHA"><img src="https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20" alt="Open in Colab"></a>
-</div>
 
 Скрипты написаны для удобства загрузки видео/аудио с YouTube, поскольку сервера Google Colab не имеют ограничений по скорости при работе с видеохостингом  
 В качестве библиотеки для загрузки используется [yt-dlp](https://github.com/yt-dlp/yt-dlp)  
@@ -27,3 +21,4 @@ Python scripts for downloading video/audio from YouTube (including RuTube, VK, a
 
 ![Загрузка видео](https://drive.google.com/uc?export=view&id=1vpafv8OpOiueR9tOLyhVazSaDBMHd04a)
 </details>
+
