@@ -4,14 +4,14 @@
 
 <div align="center">
 
-Python скрипты для загрузки видео/аудио с YouTube (в том числе RuTube, VK, и [другие сервисы](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) в Google Colab  
+Python scripts for downloading video/audio from YouTube (including RuTube, VK, and [other services](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) in Google Colab  
 </div>
 
 <div align="center">
 <a href="https://colab.research.google.com/drive/1Dep1tkQbjQFb6R9dR4Px1kI8gIiycMHA"><img src="https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20" alt="Open in Colab"></a>
 </div>
 
-Данные Python скрипты написаны для удобства загрузки видео/аудио с YouTube, поскольку сервера Google Colab не имеют ограничений по скорости при работе с видеохостингом  
+Скрипты написаны для удобства загрузки видео/аудио с YouTube, поскольку сервера Google Colab не имеют ограничений по скорости при работе с видеохостингом  
 В качестве библиотеки для загрузки используется [yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 
 Доступные опции:
@@ -20,7 +20,7 @@ Python скрипты для загрузки видео/аудио с YouTube (
 - Опция копирования папки с результатами на Google Drive
 
 > [!NOTE]
-> Если выдает ошибку о недоступности видео, нажать `Среда выполнения` -> `Отключитьтся от среды выполнения и удалить ее` и попробовать снова.
+> Если выдает ошибку о недоступности видео, нажать `Среда выполнения` -> `Отключиться от среды выполнения и удалить ее` и попробовать снова.
 
 <details>
 <summary>Скриншот скрипта для загрузки видео</summary>
