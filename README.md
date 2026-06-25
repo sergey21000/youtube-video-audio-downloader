@@ -19,6 +19,6 @@ Python скрипты для загрузки видео/аудио с YouTube (
 <details>
 <summary>Скриншот скрипта для загрузки видео</summary>
 
-![Загрузка видео](https://drive.google.com/uc?export=view&id=1vpafv8OpOiueR9tOLyhVazSaDBMHd04a)
+![Загрузка видео](./imgs/download_yt_video_script.png)
 </details>
 
